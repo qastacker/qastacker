@@ -1,8 +1,8 @@
-### Hi there, I'm Azharuddin - aka [QAStacker][website] 👋
+### Hi there, I'm Azharuddin - aka [QAStacker] 👋
 
 ## I'm a Quality Analyst, Developer , Vegetable Merchant!
 
-- 🔭 I’m currently working on Automation testing tools such as Selenium WebDriver, Appium, Rest-Assured, Performance Testing(JMETER), and Manual Testing.[ QA][website]!(https://adoltech.com.com)
+- 🔭 I’m currently working on Automation testing tools such as Selenium WebDriver, Appium, Rest-Assured, Performance Testing(JMETER), and Manual Testing.[ QA]
 - 🌱 I’m currently developing and maintaining an extensible Test automation framework for web applications, API, and Mobile testing 🤣
 - 👯 I’m looking to collaborate with other QA Mentors
 - 🥅 2020 Goals: Contribute more to Open Source projects
