@@ -1,4 +1,4 @@
-### Hi there, I'm Azharuddin - aka [QAStacker] 👋
+### Hi there, I'm Azhar - aka [QAStacker] 👋
 
 ## I'm a Quality Analyst and Tech Enthusiast!
 
