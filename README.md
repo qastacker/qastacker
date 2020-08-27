@@ -31,8 +31,7 @@
 <img align="left" alt="Selenium" width="26px"src="https://img.icons8.com/color/96/000000/selenium-test-automation.png" />
 <img align="left" alt="Jenkins" width="26px"src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" />
 <img align="left" alt="Java" width="26px"src="https://www.vectorlogo.zone/logos/java/java-icon.svg" />
-<img align="left" alt="Maven" width="26px"src="" />
-<img align="left" alt="Appium" width="26px"src="" />
+<img align="left" alt="Appium" width="26px"src="https://code.iconify.design/1/1.0.7/iconify.min.js" />
 <img align="left" alt="Postman" width="26px"src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />
 <img align="left" alt="Cucumber" width="26px"src="https://www.vectorlogo.zone/logos/cucumberio/cucumberio-icon.svg" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
