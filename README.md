@@ -27,7 +27,7 @@
 <img align="left" alt="Cucumber" width="26px"src="https://www.vectorlogo.zone/logos/cucumberio/cucumberio-icon.svg" />
 <img align="left" alt="Jenkins" width="26px"src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" />
 <img align="left" alt="Appium" width="26px"src="https://raw.githubusercontent.com/appium/appium-desktop/master/build/icon.ico" />
-<img align="left" alt="Jmeter" width="50px"src="https://www.vectorlogo.zone/logos/apache/apache-official.svg" />
+<img align="left" alt="Jmeter" width="75px"src="https://www.vectorlogo.zone/logos/apache/apache-official.svg" />
 <img align="left" alt="Postman" width="26px"src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
