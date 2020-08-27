@@ -28,7 +28,7 @@
 <img align="left" alt="GitKraken" width="26px" src="https://www.vectorlogo.zone/logos/gitkraken/gitkraken-icon.svg" />
 <img align="left" alt="Bitbucket" width="26px" src="https://www.vectorlogo.zone/logos/bitbucket/bitbucket-icon.svg" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="Selenium" width="26px"src="" />
+<img align="left" alt="Selenium" width="26px"src="https://img.icons8.com/color/48/000000/selenium-test-automation.png" />
 <img align="left" alt="Jenkins" width="26px"src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" />
 <img align="left" alt="Java" width="26px"src="https://www.vectorlogo.zone/logos/java/java-icon.svg" />
 <img align="left" alt="Maven" width="26px"src="" />
