@@ -20,10 +20,7 @@
 <br />
 
 ### Languages and Tools:
-<img align="left" alt="Java" width="26px"src="https://www.vectorlogo.zone/logos/java/java-icon.svg" />
-<img align="left" alt="Selenium" width="26px"src="https://img.icons8.com/color/96/000000/selenium-test-automation.png" />
-<img align="left" alt="Cucumber" width="26px"src="https://www.vectorlogo.zone/logos/cucumberio/cucumberio-icon.svg" />
-<img align="left" alt="Jenkins" width="26px"src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" />
+
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
@@ -31,6 +28,10 @@
 <img align="left" alt="GitKraken" width="26px" src="https://www.vectorlogo.zone/logos/gitkraken/gitkraken-icon.svg" />
 <img align="left" alt="Bitbucket" width="26px" src="https://www.vectorlogo.zone/logos/bitbucket/bitbucket-icon.svg" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img align="left" alt="Java" width="26px"src="https://www.vectorlogo.zone/logos/java/java-icon.svg" />
+<img align="left" alt="Selenium" width="26px"src="https://img.icons8.com/color/96/000000/selenium-test-automation.png" />
+<img align="left" alt="Cucumber" width="26px"src="https://www.vectorlogo.zone/logos/cucumberio/cucumberio-icon.svg" />
+<img align="left" alt="Jenkins" width="26px"src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" />
 <img align="left" alt="Appium" width="26px"src="https://raw.githubusercontent.com/appium/appium-desktop/master/build/icon.ico" />
 <img align="left" alt="Jmeter" width="26px"src="https://www.vectorlogo.zone/logos/apache/apache-official.svg" />
 <img align="left" alt="Postman" width="26px"src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />
