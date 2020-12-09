@@ -19,10 +19,16 @@
 
 <br />
 
-### Languages and Tools:
+### Languages
+
+[![Java](https://img.shields.io/badge/-Java-fff?&logo=Java&logoColor=007396)](https://github.com/qastacker?tab=repositories&q=&type=&language=java)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-fff?&logo=JavaScript&logoColor=ddc508)](https://github.com/qastacker?tab=repositories&q=&type=&language=javascript)
+
+
+### Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Java" width="26px"src="https://www.vectorlogo.zone/logos/java/java-icon.svg"><img align="left" alt="Selenium" width="26px"src="https://img.icons8.com/color/96/000000/selenium-test-automation.png" />
+<img align="left" alt="Selenium" width="26px"src="https://img.icons8.com/color/96/000000/selenium-test-automation.png" />
 <img align="left" alt="Cucumber" width="26px"src="https://www.vectorlogo.zone/logos/cucumberio/cucumberio-icon.svg" />
 <img align="left" alt="Jenkins" width="26px"src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" />
 <img align="left" alt="Appium" width="26px"src="https://avatars1.githubusercontent.com/u/3221291?s=200&v=4" />
