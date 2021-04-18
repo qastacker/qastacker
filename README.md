@@ -3,7 +3,7 @@
 ## I'm a Quality Analyst and Tech Enthusiast!
 
 - 🔭 I’m currently working on Automation testing tools such as Selenium WebDriver, WebdriverIo, Appium, Rest-Assured, Performance Testing(JMETER), and Manual Testing.
-- 🌱 I’m currently developing and maintaining an extensible Test automation framework for web applications, API, and Mobile testing 🤣
+- 🌱 I’m currently developing and maintaining an extensible Test automation framework for web applications, API, and Mobile testing 😉
 - 👯 I’m looking to collaborate with other QA Mentors
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to travel and play volleyball
