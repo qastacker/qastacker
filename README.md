@@ -1,10 +1,10 @@
 ### Hi there, I'm Azhar - aka [QAStacker] 👋
 
-## I'm a Quality Analyst and Tech Enthusiast!
+## I'm a Quality Engineering & Assurance Specialist and Tech Enthusiast!
 
 - 🔭 I’m currently working on Automation testing tools such as Selenium WebDriver, WebdriverIO, Appium, Rest-Assured, Performance Testing(JMETER), and Manual Testing.
 - 🌱 I’m currently developing and maintaining an extensible Test automation framework for web applications, API, and Mobile testing 😉
-- 👯 I’m looking to collaborate with other QA Mentors and Fullstack Developers
+- 👯 I’m looking to collaborate with other QE&A Mentors and Fullstack Developers
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to travel and play volleyball
 
